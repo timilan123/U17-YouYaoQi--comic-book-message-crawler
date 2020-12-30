@@ -1,6 +1,6 @@
 # Scrapy framework crawler
 
-有问题可以加我，联系方式加QQ:806683662
+有问题可以发邮件问我哦：lanhf@stu.swun.edu.cn
 
 中文描述：
 用来爬取有妖气漫画网站的所有漫画的
